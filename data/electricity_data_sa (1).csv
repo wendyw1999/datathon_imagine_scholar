@@ -1,0 +1,300 @@
+﻿Country Name,Country Code,Series Name,Series Code,2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019]
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.82,99.278694152832,99.4978561401367,99.4765548706055,100,99.8271179199219,99.9591217041016,100,100,..
+Argentina,ARG,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,90.1959207389554,92.9318230346487,94.6814229520045,94.1993589666595,100,98.1367605031083,99.6911200842526,100,100,..
+Argentina,ARG,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6886825561523,99.9071731567383,99.9671783447266,99.9826507568359,99.8576202392578,99.9840850830078,99.9836120605469,99.9870910644531,100,..
+Argentina,ARG,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,35.8853327193184,36.8914891268352,38.4988415324101,37.4025112008408,38.0385634842264,..,..,..,..,..
+Argentina,ARG,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.40533916639391,2.83586121724364,2.9205099279642,2.54892937775924,2.21728366463494,2.02956738894983,..,..,..,..
+Argentina,ARG,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,26.8131850586366,30.6425842306356,27.2320408178313,29.3691309912423,29.6079396562957,26.2415750877847,..,..,..,..
+Argentina,ARG,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,49.9820377924846,44.818802825055,48.3141262432996,47.2353643279311,48.1996785915942,49.4822602564899,..,..,..,..
+Argentina,ARG,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,5.72475511523754,4.91760256261819,4.71513784128529,4.46296322926703,4.16672699106716,..,..,..,..,..
+Argentina,ARG,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,13.3024117257291,15.1217629578171,14.7890906677874,14.2682523476035,13.840106557021,15.4231944645654,..,..,..,..
+Argentina,ARG,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,65.6897886846076,62.7764270001158,66.0237268390512,64.0525460532938,64.2570688132501,66.935022110005,..,..,..,..
+Argentina,ARG,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.77227114151825,1.66338620663039,2.02909450183223,2.11535972619681,1.96826453938701,1.89849403616245,..,..,..,..
+Argentina,ARG,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,2220000000,2155000000,2752000000,2942000000,2719000000,2752000000,..,..,..,..
+Argentina,ARG,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,28.5854562001549,32.305970437266,29.2611353196635,31.4844907174391,31.5762041956827,28.1400691239471,..,..,..,..
+Argentina,ARG,Time required to get electricity (days),IC.ELC.TIME,91,91,91,91,92,92,92,92,92,92
+Australia,AUS,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+Australia,AUS,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+Australia,AUS,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.914306640625,99.9563903808594,99.9853515625,99.9976654052734,100,100,100,100,100,..
+Australia,AUS,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,62.9229347435437,61.5513680949923,60.9031491384433,59.3782626853205,58.3578575632725,..,..,..,..,..
+Australia,AUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,71.3276416875453,67.9882791730831,68.554964397789,63.7153925350832,61.1643250733091,62.8716168006469,..,..,..,..
+Australia,AUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,5.3441308366086,6.59926666062771,5.58564442391322,7.2794356244066,7.40582605613379,5.29618354500626,..,..,..,..
+Australia,AUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,17.6468725633384,19.2972229989721,19.3430715070806,20.4526061509248,21.9097412431927,20.7954779685741,..,..,..,..
+Australia,AUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0,0,0,0,0,0,..,..,..,..
+Australia,AUS,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.41360612069614,2.28784554974853,1.50931073482326,2.56789292567532,2.01922147391487,2.6950641361049,..,..,..,..
+Australia,AUS,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,91.3881203715798,89.5733477218037,89.4073466396929,86.7358916116833,85.0932877904167,86.3621589053259,..,..,..,..
+Australia,AUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.26774879181163,3.82738561756864,5.0070089363939,5.98467276391009,7.50088615344955,8.34165754966783,..,..,..,..
+Australia,AUS,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,8256000000,9718000000,12573000000,14939000000,18622000000,21044000000,..,..,..,..
+Australia,AUS,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,8.61187962842023,10.4266522781963,10.5926533603071,13.2641083883167,14.9067122095833,13.6378410946741,..,..,..,..
+Australia,AUS,Time required to get electricity (days),IC.ELC.TIME,75,75,75,75,75,75,75,75,75,75
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.9767379760742,99.328691,99.519494,99.575151,99.650247,99.710902,99.7,100,100,..
+Brazil,BRA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,93.4678453792054,96.1905874295669,97.2218134711631,97.5020334516603,97.9100770443521,98.2324092437609,98.4671299794553,100,100,..
+Brazil,BRA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,99.898571,99.927418,99.935013,99.945554,99.956197,99.9,100,100,..
+Brazil,BRA,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,18.6543599708526,16.1631458713006,19.3633952254642,23.4817096138081,26.3098189151716,..,..,..,..,..
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.19837322707927,2.32794302660802,2.5916355424303,3.81301917716111,4.52957838046494,4.72241133873863,..,..,..,..
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,78.1954260341836,80.5505146147582,75.1581545499291,68.4634457254122,63.2249839583781,61.8484936009848,..,..,..,..
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,7.07229347836625,4.71926086539528,8.46144937606763,12.0823819462927,13.7263798757642,13.6662471718485,..,..,..,..
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.81592647529302,2.94476612437636,2.90215408668462,2.70532449885834,2.60356792759176,..,..,..,..,..
+Brazil,BRA,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.11491143879243,2.78247394956719,3.54526766843279,4.65070671130598,5.99728096625588,5.04425326483877,..,..,..,..
+Brazil,BRA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,12.3855781442379,9.82967784157049,14.5983525869307,20.5461078347598,24.253239222485,23.4329117754259,..,..,..,..
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.52880784108426,6.57048238199027,7.2901285503344,8.22576239371314,9.85708988895304,12.1184144471265,..,..,..,..
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,33672000000,34939000000,40287000000,46977000000,58221000000,70487000000,..,..,..,..
+Brazil,BRA,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,84.7242338752678,87.1209969967485,82.4482831002635,76.6892081191253,73.0820738473312,73.9669080481113,..,..,..,..
+Brazil,BRA,Time required to get electricity (days),IC.ELC.TIME,..,..,..,115.83,115.83,119.34,128.49,128.49,128.49,128.49
+China,CHN,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7,99.874382019043,99.9748764038086,100,100,100,100,100,100,..
+China,CHN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.4091464137797,99.7461698945212,99.9479141780843,100,100,100,100,100,100,..
+China,CHN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,..
+China,CHN,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,51.5682394690576,52.390903721205,52.5268038283395,53.1564628729052,52.2530087069823,..,..,..,..,..
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,77.1871941416238,78.8771230435926,75.6589120538476,75.2790685739732,72.6339078091231,70.3094269525225,..,..,..,..
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,16.9489736500775,14.6241302346658,17.3087339499897,16.7313490296358,18.5524939791678,19.0698129653579,..,..,..,..
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.85988100649861,2.0390613027675,1.98157092497651,1.96121927679729,2.02100518113681,2.48703063811759,..,..,..,..
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,1.76021942226301,1.83533583670166,1.95384626495467,2.05300514092809,2.33928636039921,..,..,..,..,..
+China,CHN,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.353949915229281,0.257818456273203,0.219409990346522,0.184178728966276,0.16797437936229,0.165618383349663,..,..,..,..
+China,CHN,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,79.4010250633517,81.1740028026333,77.8598929691707,77.4244665797368,74.8228873696222,72.9620759739898,..,..,..,..
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.67385240269475,2.13764019808449,2.65751498776664,3.5648783506209,4.05665980378573,4.85700420830511,..,..,..,..
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,70255000000,100573000000,132470000000,193807000000,229840000000,283851000000,..,..,..,..
+China,CHN,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,18.6228260527723,16.7617704327503,19.9662489377563,20.2962273802567,22.6091537829535,23.926817173663,..,..,..,..
+China,CHN,Time required to get electricity (days),IC.ELC.TIME,..,..,..,143.2,143.2,143.2,143.2,143.2,34,32
+France,FRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+France,FRA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+France,FRA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9330368041992,99.9709091186523,99.9921569824219,99.9990539550781,100,100,100,100,100,..
+France,FRA,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,20.3158080451658,18.321790948623,17.4302213666987,16.9930312490146,13.7951554186502,..,..,..,..,..
+France,FRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,4.66342362458687,3.11121096382835,3.70112442613554,4.29023817416265,2.15702898563713,2.16044891338683,..,..,..,..
+France,FRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,11.1137102705193,8.05050550438104,10.4846442709979,12.4687030545819,11.2619354468656,9.66114989689331,..,..,..,..
+France,FRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,4.21028381048584,4.80880700966075,3.89558211417827,3.02813374992066,2.29146240255818,3.51272595626573,..,..,..,..
+France,FRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,75.9405265069956,79.5116603010559,75.9627798342556,74.7044863069252,78.2355882895947,77.6278008284028,..,..,..,..
+France,FRA,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.978760732608522,0.615232532015277,1.10942664445313,0.448031201732176,0.376055078267135,0.382612769612454,..,..,..,..
+France,FRA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,9.85246816768123,8.53525050550438,8.70613318476695,7.76640312581548,4.82454646646245,6.05578763926501,..,..,..,..
+France,FRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.74364904259373,3.52424174342844,4.34270980091747,4.57658318463611,5.19396949616148,6.19651673309742,..,..,..,..
+France,FRA,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,15482000000,19608000000,24320000000,25956000000,28977000000,34917000000,..,..,..,..
+France,FRA,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,13.8573593131131,11.5747472478095,14.8273540719154,17.045286239218,16.4559049430271,15.8576666299907,..,..,..,..
+France,FRA,Time required to get electricity (days),IC.ELC.TIME,71,71,71,71,71,71,71,71,53,53
+Germany,DEU,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+Germany,DEU,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+Germany,DEU,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9330368041992,99.9709091186523,99.9921569824219,99.9990539550781,100,100,100,100,100,..
+Germany,DEU,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,47.6814210602607,48.4691854343575,48.9997046107575,48.4486686041945,48.4673773279688,..,..,..,..,..
+Germany,DEU,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,43.642422472362,44.8562977991792,46.0164689811742,47.241229490714,45.8101932990105,44.2628091617821,..,..,..,..
+Germany,DEU,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.34401029073562,2.91010954699059,3.48795449225451,3.63349106162463,3.14934929205162,2.9606828432665,..,..,..,..
+Germany,DEU,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,14.4197975367988,14.3651149156495,12.4418407036513,10.859869340938,10.0122520251215,9.83155139032119,..,..,..,..
+Germany,DEU,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,22.4321438660162,17.7809653046302,15.9463090691627,15.3710037996982,15.6171515488682,14.3199259868293,..,..,..,..
+Germany,DEU,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.39502667643393,1.17945812775432,1.22282826533786,1.13722361342613,0.909897771160469,0.968692616000512,..,..,..,..
+Germany,DEU,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,59.4572466855947,60.400870842583,59.6811379501634,59.2383224450782,56.7323430952925,55.0630531681038,..,..,..,..
+Germany,DEU,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,13.3830633770785,17.4731731738326,19.5125040483039,20.4390586859838,22.9807472770598,26.2710872790643,..,..,..,..
+Germany,DEU,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,83856000000,106102000000,121703000000,129368000000,142926000000,168389000000,..,..,..,..
+Germany,DEU,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,16.7270736678142,20.3832827208232,23.0004585405584,24.0725497476084,26.1300965691114,29.2317701223308,..,..,..,..
+Germany,DEU,Time required to get electricity (days),IC.ELC.TIME,28,28,28,28,28,28,28,28,28,28
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,76.3,67.6,79.9,80.7915420532227,83.5347213745117,88,89.6719207763672,92.6,95.2358551025391,..
+India,IND,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,68.3738236535823,56.086077638855,72.4040107597965,73.6635093484631,77.3026672546519,83.3679321086777,85.3661261120263,89.3166544302861,92.9293349509066,..
+India,IND,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94,92.9,96.1,95.9365234375,96.5469055175781,97.5,98.3424224853516,99.0885162353516,99.7072372436523,..
+India,IND,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,51.5028916237,51.7642068537017,53.4426723849092,52.3179987692042,53.605291953636,..,..,..,..,..
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,67.1782980878401,66.759978260384,71.636055060821,72.5227381120314,74.4921858694795,75.3093989605236,..,..,..,..
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,12.5656513677538,13.3622326287812,11.0893647561237,12.3886605001713,11.0801572565746,9.9820390975008,..,..,..,..
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,11.5669950256071,10.627191643649,7.61347011572959,5.24143710241891,4.63653355306791,4.92319617296841,..,..,..,..
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.68180221683125,3.00473878957987,2.92649741907967,2.87400331835372,2.79063943071017,..,..,..,..,..
+India,IND,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.49056580656228,2.2451551181161,2.03784518752076,1.95633409238995,1.76743589228265,1.65950351553575,..,..,..,..
+India,IND,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,81.2358589200095,79.6323250221491,81.2873703640714,79.7205093068402,80.8961553148301,81.8920986490278,..,..,..,..
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.47809306770565,3.95473022774481,4.64360860478928,4.96065332607863,5.1736825587741,5.36101124797904,..,..,..,..
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,34065000000,42495000000,52150000000,59079000000,66931000000,74143000000,..,..,..,..
+India,IND,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,16.0437444354595,17.316962856526,15.732973360913,17.3493138262499,16.2538398153488,15.3430503454798,..,..,..,..
+India,IND,Time required to get electricity (days),IC.ELC.TIME,..,..,..,115.61,115.61,100.02,59.21,59.21,54.97,52.85
+Indonesia,IDN,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.15,94.83,96,96.4642583061542,97.01,97.5373674369822,97.62,98.14,98.51,..
+Indonesia,IDN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,89.3565179950132,90.2011284604576,92.6323947288045,92.9942041681205,93.9762504080437,94.9177642160956,95.0620025675624,96.0303586103137,96.8134079568893,..
+Indonesia,IDN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.96,99.35,99.2,99.6731650809369,99.74,99.8313935861281,99.8,99.89,99.88,..
+Indonesia,IDN,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,40.3291307232913,43.8658520733134,43.1370044953004,42.0728655790211,44.2512542093327,..,..,..,..,..
+Indonesia,IDN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,40.319872757798,44.2107329200674,51.0753386991951,51.50078696417,52.4548438624515,55.7764633479212,..,..,..,..
+Indonesia,IDN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,10.2830549910165,6.77091000288959,6.39854021896716,7.83399685214332,6.65361863469606,5.87262376914661,..,..,..,..
+Indonesia,IDN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,23.708874554505,20.7925110540462,22.7230915362696,23.8357559485233,24.5857396127719,25.1700971006565,..,..,..,..
+Indonesia,IDN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0,0,0,0,0,..,..,..,..,..
+Indonesia,IDN,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,20.1172277694324,22.9956874226489,14.9572564115383,12.3840385149523,11.4764169987186,8.39801012035011,..,..,..,..
+Indonesia,IDN,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,84.1459750817354,87.9989313967626,88.7556866470029,87.7205814276456,88.517000473942,89.3445705689278,..,..,..,..
+Indonesia,IDN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,5.57096992724809,5.22198051434709,4.83827425886117,4.43616331821128,4.82148185855465,4.7785318654267,..,..,..,..
+Indonesia,IDN,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,9457000000,9578000000,9678000000,9583000000,10987000000,11181000000,..,..,..,..
+Indonesia,IDN,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,15.8540249182646,11.9928905172367,11.2368144778283,12.2701601703546,11.4751004932507,10.6511556345733,..,..,..,..
+Indonesia,IDN,Time required to get electricity (days),IC.ELC.TIME,..,..,..,86.8,81.34,79,57.68,34,34,32.24
+Italy,ITA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+Italy,ITA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+Italy,ITA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9330368041992,99.9709091186523,99.9921569824219,99.9990539550781,100,100,100,100,100,..
+Italy,ITA,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,39.0645334149889,39.5744902476498,39.279284194446,36.3264580369844,35.5603515686091,..,..,..,..,..
+Italy,ITA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,14.8721604696542,16.6769777281073,18.2005933440521,16.8431691958223,16.7282716564311,16.1200730212174,..,..,..,..
+Italy,ITA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,17.108641008391,15.2414118836646,14.0851939804506,18.330097357151,21.0505688273958,16.1733472556666,..,..,..,..
+Italy,ITA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,51.1217546431572,48.0788164231926,43.4103155756177,37.8157681767503,33.6683254469358,39.3732108736264,..,..,..,..
+Italy,ITA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0,0,0,0,0,0,..,..,..,..
+Italy,ITA,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,7.26772499523049,6.61404699183098,6.35389407261401,5.37739355143465,5.09247939708611,4.75348235912517,..,..,..,..
+Italy,ITA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,73.2616401080419,71.3698411431308,67.9648029922838,60.0363309240072,55.4890765004531,60.2467662539689,..,..,..,..
+Italy,ITA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,8.65171886348499,12.353316835635,16.9351963349905,20.5752512078469,22.3410375526759,22.5058779238676,..,..,..,..
+Italy,ITA,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,25849000000,37140000000,50348000000,59238000000,62134000000,63368000000,..,..,..,..
+Italy,ITA,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,25.760359871876,27.5947287192996,31.0203903154411,38.905348564998,43.3916063800716,38.6792251795342,..,..,..,..
+Italy,ITA,Time required to get electricity (days),IC.ELC.TIME,124,124,124,124,124,124,124,75,75,75
+Japan,JPN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+Japan,JPN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+Japan,JPN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9339752197266,99.9716415405273,99.9925079345703,99.9991226196289,100,100,100,100,100,..
+Japan,JPN,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,49.7094853483478,51.7105308307312,53.6171937690787,53.8549121665582,53.0964219311308,..,..,..,..,..
+Japan,JPN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,27.1551421674573,27.099953182867,29.7220792101697,32.925870522337,32.7419341069205,33.1527356254335,..,..,..,..
+Japan,JPN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,7.21117410952368,7.74362826265622,7.14401986689784,7.37094939904584,7.75888972257293,8.22909281286162,..,..,..,..
+Japan,JPN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,27.9469398209223,36.1084817194453,38.7185888748401,38.4681449462751,41.5149356445458,39.5872171982853,..,..,..,..
+Japan,JPN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,25.2819139978107,9.47148762138249,1.5084722022426,0.87800182150222,0,0.911553166046214,..,..,..,..
+Japan,JPN,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,6.86856176495355,10.6210669652539,12.7065051976469,10.2033381623591,8.53586005996834,7.51942012970579,..,..,..,..
+Japan,JPN,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,61.9706437533331,73.8295018675662,81.1471732826566,81.5973536309712,82.7927298114346,80.2593729534245,..,..,..,..
+Japan,JPN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.32060305386364,3.7192163389002,4.05022751535066,4.83434239522823,6.30046963498235,7.75568791016029,..,..,..,..
+Japan,JPN,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,37857000000,39959000000,42796000000,51223000000,66421000000,80292000000,..,..,..,..
+Japan,JPN,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.5317771633873,11.4628446015564,11.1942473822485,12.2052917942741,14.0593593575553,15.9847807230219,..,..,..,..
+Japan,JPN,Time required to get electricity (days),IC.ELC.TIME,..,..,..,81.9,81.9,81.9,81.55,80.9,80.9,80.9
+"Korea, Rep.",KOR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+"Korea, Rep.",KOR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+"Korea, Rep.",KOR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9392318725586,99.9749221801758,99.9938430786133,99.9993743896484,100,100,100,100,100,..
+"Korea, Rep.",KOR,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,58.6111111111111,60.4104191366204,60.9574634519443,60.439022685169,60.4850213980029,..,..,..,..,..
+"Korea, Rep.",KOR,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,44.1449675671105,43.1721382243733,45.0802828971531,41.4288396719782,42.4096756346796,43.0762564044674,..,..,..,..
+"Korea, Rep.",KOR,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.741265667843726,0.88414065489479,0.747549135016527,0.797373445549377,0.504153033894765,0.390731684224709,..,..,..,..
+"Korea, Rep.",KOR,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,20.7731549893501,22.251001340248,21.0829950935614,26.9264590781404,23.8992719825012,22.3689337358392,..,..,..,..
+"Korea, Rep.",KOR,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,29.9155657737388,29.7513907236378,28.3136353790954,25.8015099713511,28.6530027515911,29.998943968421,..,..,..,..
+"Korea, Rep.",KOR,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.81202211315072,3.19794328654964,3.98692872008815,3.98184762340325,3.18667951475271,2.27920746650741,..,..,..,..
+"Korea, Rep.",KOR,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,68.7301446696113,68.6210828511709,70.1502067108026,72.3371463735218,69.4956271319335,67.724397606814,..,..,..,..
+"Korea, Rep.",KOR,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.504108971287531,0.553981997988667,0.588395943006206,0.835485256306575,1.06271502529925,1.50393462800377,..,..,..,..
+"Korea, Rep.",KOR,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,2504000000,2881000000,3124000000,4494000000,5801000000,8260000000,..,..,..,..
+"Korea, Rep.",KOR,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.24537463913126,1.43812265288346,1.33594507802273,1.63285870185595,1.56686805919401,1.89466631222848,..,..,..,..
+"Korea, Rep.",KOR,Time required to get electricity (days),IC.ELC.TIME,18,18,18,18,18,18,13,13,13,13
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.236696,99.1445693969727,99.111637,99.3201751708984,99.172928,99,99.5,100,100,..
+Mexico,MEX,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.5991857046315,96.9034726220326,97.156979858956,97.5051706509414,97.4269296534203,97.8517740684543,98.331067891438,100,100,..
+Mexico,MEX,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.703549,99.772590637207,99.650006,99.8114318847656,99.63725,99.3,99.8,99.9973907470703,100,..
+Mexico,MEX,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,44.0506907181185,44.6772988884495,46.0077790402937,44.6497511771663,44.0661839784647,..,..,..,..,..
+Mexico,MEX,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,11.7160308778857,11.1497567307788,11.1181272540263,10.7491440371848,11.2376283599119,10.8659180170857,..,..,..,..
+Mexico,MEX,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,13.4758671249233,11.9725450948139,10.3776348509901,9.41794528564606,12.9000053068697,9.90396544298671,..,..,..,..
+Mexico,MEX,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,53.348189172416,54.3301260772054,53.8661840717643,55.7499175988645,57.0362459203439,59.8612191374888,..,..,..,..
+Mexico,MEX,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.13365174187133,3.332441511341,2.85455752730871,3.96870774839738,3.20966115636692,3.72085698307503,..,..,..,..
+Mexico,MEX,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,16.1818557943216,16.2665028356636,18.2864192065827,16.1849283278287,10.947408920848,10.1488728474182,..,..,..,..
+Mexico,MEX,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,81.2460758446234,81.7463856436477,83.2707305323733,82.683989963878,79.2212832011038,80.8760100019927,..,..,..,..
+Mexico,MEX,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.12698476066735,2.91625791492018,3.41049643912664,3.88159797663171,4.64351102502189,5.49016834973549,..,..,..,..
+Mexico,MEX,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,8616000000,8829000000,10478000000,11541000000,14000000000,17082000000,..,..,..,..
+Mexico,MEX,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,16.6028518855907,14.8888030097341,13.7881312901168,13.2995432622778,17.5435163318916,15.3941337927222,..,..,..,..
+Mexico,MEX,Time required to get electricity (days),IC.ELC.TIME,..,..,..,107.93,107.93,107.93,100.44,100.44,100.44,100.44
+Netherlands,NLD,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+Netherlands,NLD,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+Netherlands,NLD,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9330368041992,99.9709091186523,99.9921569824219,99.9990539550781,100,100,100,100,100,..
+Netherlands,NLD,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,41.7274652859496,42.7739812705644,41.5021789284799,41.5810428975083,45.8473776459485,..,..,..,..,..
+Netherlands,NLD,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,21.6315921857969,21.7070452690786,26.440976591996,27.0690807580404,31.3485079966737,38.6535840828564,..,..,..,..
+Netherlands,NLD,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.0880355495933596,0.0500162333388907,0.100679587213692,0.112054729889125,0.108298361987275,0.0844916871082039,..,..,..,..
+Netherlands,NLD,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,63.1617338811101,60.9627686178848,54.7871207574203,55.1417394039475,49.8191804134677,42.2794585263923,..,..,..,..
+Netherlands,NLD,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,3.32774377462899,3.63363547818151,3.79000561482313,2.84166863253912,3.95579106151734,3.50867629690197,..,..,..,..
+Netherlands,NLD,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.05055755848076,1.23373375569264,1.0251892582625,1.1824722811984,1.84300605310488,1.30008176614881,..,..,..,..
+Netherlands,NLD,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,85.8438836253878,83.903547642656,82.2532866076788,83.3932924431863,83.0106944632463,82.2331243753975,..,..,..,..
+Netherlands,NLD,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,9.29990777228138,10.7622649456403,12.0137853588646,11.8630573248408,11.2127482643254,12.3575906241483,..,..,..,..
+Netherlands,NLD,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,11092000000,12265000000,12410000000,12069000000,11596000000,13602000000,..,..,..,..
+Netherlands,NLD,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,9.38794332187474,10.8122811789791,12.1144649460783,11.9751120547299,11.3210466263126,12.4420823112565,..,..,..,..
+Netherlands,NLD,Time required to get electricity (days),IC.ELC.TIME,110,110,110,110,110,102,102,102,102,102
+Russian Federation,RUS,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,95.5,100,100,100,..
+Russian Federation,RUS,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+Russian Federation,RUS,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.611442565918,99.764518737793,99.8100814819336,99.6713485717773,99.684440612793,95.1,99.7044830322266,99.7129745483398,99.7213363647461,..
+Russian Federation,RUS,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,62.5238730607226,63.2691348790825,64.9791723088431,63.3425428765052,61.1100132874519,..,..,..,..,..
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,15.9830559512641,15.5421504822882,15.7494578294662,15.2216976538145,14.787924313751,14.8216583163089,..,..,..,..
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,16.0679885263812,15.7496526593992,15.5144471263325,17.1286766409257,16.49831079332,15.764768590768,..,..,..,..
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,50.2384868103571,49.3068857484466,49.1321998329769,50.1115272568077,50.2189991273923,49.7126094312904,..,..,..,..
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,16.4474827142907,16.4236311266561,16.6026224314116,16.3114404556023,17.0150979024468,..,..,..,..,..
+Russian Federation,RUS,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.897100324674071,2.5968636307088,2.62280548352073,0.821963919821405,1.00636994238153,0.946957789011686,..,..,..,..
+Russian Federation,RUS,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,67.1186430862954,67.4458998614436,67.5044631459638,66.1551888304436,66.0132933835248,65.481225536611,..,..,..,..
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0526002879986411,0.0533712693530206,0.0492839795270421,0.0459535793205111,0.0699404047506761,0.0910265638035215,..,..,..,..
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,545000000,562000000,527000000,486000000,743000000,970000000,..,..,..,..
+Russian Federation,RUS,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,16.1205888143799,15.8030239287522,15.5637311058596,17.1746302202462,16.5682511980707,15.8557951545716,..,..,..,..
+Russian Federation,RUS,Time required to get electricity (days),IC.ELC.TIME,..,..,..,175.2,175.2,160.5,83,83,73,40.7
+Saudi Arabia,SAU,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,99.9,99.93,100,..
+Saudi Arabia,SAU,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+Saudi Arabia,SAU,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9631271362305,99.9856414794922,99.9969024658203,99.9997711181641,100,100,100,100,100,..
+Saudi Arabia,SAU,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,47.1391076115486,47.9381443298969,47.9863599084905,48.2252038043478,49.1580962908861,..,..,..,..,..
+Saudi Arabia,SAU,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0,0,0,0,0,0,..,..,..,..
+Saudi Arabia,SAU,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0,0,0,0,0,0,..,..,..,..
+Saudi Arabia,SAU,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,46.1408690074021,43.3374520647641,44.6834511189635,52.7517719009778,51.1600161638968,55.8036980989312,..,..,..,..
+Saudi Arabia,SAU,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0,0,0,0,0,..,..,..,..,..
+Saudi Arabia,SAU,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,24.0707802405162,26.4530524598424,27.6902974087161,23.951031100251,23.9036452152941,20.4063416248936,..,..,..,..
+Saudi Arabia,SAU,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,70.2116492479183,69.7905045246064,72.3737485276796,76.7028030012288,75.0636613791909,76.2100397238248,..,..,..,..
+Saudi Arabia,SAU,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0,0,0.000368080094228504,0.000352091600150695,0.000320712237737568,0.000295564172893219,..,..,..,..
+Saudi Arabia,SAU,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0,0,1000000,1000000,1000000,1000000,..,..,..,..
+Saudi Arabia,SAU,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0,0,0.000368080094228504,0.000352091600150695,0.000320712237737568,0.000295564172893219,..,..,..,..
+Saudi Arabia,SAU,Time required to get electricity (days),IC.ELC.TIME,68,68,68,68,68,68,68,68,68,35
+Spain,ESP,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+Spain,ESP,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+Spain,ESP,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9330368041992,99.9709091186523,99.9921569824219,99.9990539550781,100,100,100,100,100,..
+Spain,ESP,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,33.6514237728071,38.2477341389728,41.9789586853018,36.5391977540516,37.4067847752058,..,..,..,..,..
+Spain,ESP,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,8.82374631268437,15.4788651713528,19.0483156541086,14.6856401783652,16.4739642624632,18.9623891256768,..,..,..,..
+Spain,ESP,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,14.1807455081791,10.4948667903805,6.98947411394085,13.0984739469523,14.2459146969074,10.1298813500749,..,..,..,..
+Spain,ESP,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,31.7950522928399,29.3304703069635,24.9396139374434,20.4430705821741,17.1933704068755,18.8983124064048,..,..,..,..
+Spain,ESP,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,20.7796996513811,19.7981017586345,20.9122888188826,20.1552701238253,20.8420470705476,20.6186643243866,..,..,..,..
+Spain,ESP,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.55175650308394,5.03956670428391,5.21225275734669,4.89012062747606,5.13586155978018,6.20644223015782,..,..,..,..
+Spain,ESP,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,46.1705551086082,49.8489021826003,49.2001823488988,40.0188313880154,38.8031962291189,44.0671437622394,..,..,..,..
+Spain,ESP,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,18.5947975328506,19.5267774145637,22.5952738975716,26.4851036614614,25.859341186911,24.8200092155282,..,..,..,..
+Spain,ESP,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,55472000000,56927000000,66417000000,74541000000,71100000000,68948000000,..,..,..,..
+Spain,ESP,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,32.7755430410298,30.0216442049442,29.5847480115125,39.5835776084137,40.1052558838185,34.949890565603,..,..,..,..
+Spain,ESP,Time required to get electricity (days),IC.ELC.TIME,148,148,148,132,132,107,95,95,95,95
+Switzerland,CHE,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+Switzerland,CHE,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+Switzerland,CHE,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9330368041992,99.9709091186523,99.9921569824219,99.9990539550781,100,100,100,100,100,..
+Switzerland,CHE,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,8.67749419953596,9.1304347826087,8.71174728529121,8.76052948255114,9.30047694753577,..,..,..,..,..
+Switzerland,CHE,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0,0,0,0,0,0,..,..,..,..
+Switzerland,CHE,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,54.5948646520923,51.5042615443328,56.6480774875257,55.9676949941793,54.2580810818522,57.881598257107,..,..,..,..
+Switzerland,CHE,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.55634954278447,1.53924437094517,1.34869386557088,1.11903376018626,0.743202761690109,1.00155831580858,..,..,..,..
+Switzerland,CHE,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,39.8761581784049,42.4723317644066,37.3363663046669,37.8201396973225,39.3098627713903,34.931993887771,..,..,..,..
+Switzerland,CHE,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.102949191546055,0.0826866810838316,0.0748459054886997,0.0669383003492433,0.0599126986391258,0.0680817586274717,..,..,..,..
+Switzerland,CHE,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,1.65929873433053,1.621931052029,1.42353977105958,1.18597206053551,0.803115460329235,1.06964007443606,..,..,..,..
+Switzerland,CHE,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.13468176588143,2.58872916931688,2.82653360727913,3.22613504074505,3.75738210036804,4.31638349698171,..,..,..,..
+Switzerland,CHE,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1410000000,1628000000,1926000000,2217000000,2634000000,2853000000,..,..,..,..
+Switzerland,CHE,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,56.7295464179737,54.0929907136497,59.4746110948048,59.1938300349243,58.0154631822202,62.1979817540887,..,..,..,..
+Switzerland,CHE,Time required to get electricity (days),IC.ELC.TIME,39,39,39,39,39,39,39,39,39,39
+Turkey,TUR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,99.9562454223633,99.9912490844727,100,100,100,100,100,100,..
+Turkey,TUR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,99.8887178671928,99.9773575302515,100,100,100,100,100,100,..
+Turkey,TUR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,99.9832916259766,99.9966583251953,100,100,100,100,100,100,..
+Turkey,TUR,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,42.5992915818826,43.2775027213034,41.7418310371031,42.7077464788732,46.690111035134,..,..,..,..,..
+Turkey,TUR,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,26.0629332222264,28.8661816184452,28.398386611885,26.560457040066,30.2675392815612,29.0950902083023,..,..,..,..
+Turkey,TUR,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,24.5236922843832,22.8158662208524,24.1611550923606,24.7424569234741,16.131336743887,25.6494883166592,..,..,..,..
+Turkey,TUR,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,46.467936820575,45.3579664593078,43.6328790459966,43.7702474245692,47.8546453249088,37.9012388122987,..,..,..,..
+Turkey,TUR,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0,0,0,0,0,0,..,..,..,..
+Turkey,TUR,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.03215787280785,0.394083516061955,0.684353809666967,0.724118690506925,0.851712354591746,0.849558603881841,..,..,..,..
+Turkey,TUR,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,73.5630279156093,74.618231593815,72.7156194675485,71.0548231551421,78.9738969610617,67.8458876244829,..,..,..,..
+Turkey,TUR,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.85409643574107,2.510974615616,3.06936232755453,4.08071487462212,4.75585701075158,6.30713224311739,..,..,..,..
+Turkey,TUR,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,3916000000,5760000000,7351000000,9800000000,11983000000,16511000000,..,..,..,..
+Turkey,TUR,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,26.3777887201242,25.3268408364684,27.2305174199152,28.8231717980962,20.8871937546386,31.9566205597766,..,..,..,..
+Turkey,TUR,Time required to get electricity (days),IC.ELC.TIME,63,63,63,62,62,55,55,55,55,34
+United Kingdom,GBR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+United Kingdom,GBR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+United Kingdom,GBR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9330368041992,99.9709091186523,99.9921569824219,99.9990539550781,100,100,100,100,100,..
+United Kingdom,GBR,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,43.8057087728865,44.9644225506294,45.8452350038951,44.0521190020901,41.9306590819929,..,..,..,..,..
+United Kingdom,GBR,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,28.7459244658871,30.062958067344,40.0515015736592,37.0497899981152,30.3116975302198,22.806490741952,..,..,..,..
+United Kingdom,GBR,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.94193057456444,1.56062358990143,1.46810041417932,1.32330725540336,1.75756726206631,1.869745150971,..,..,..,..
+United Kingdom,GBR,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,46.3255460026739,40.1738972720003,27.7219581709441,26.9615413828898,30.0915915333753,29.7402157238164,..,..,..,..
+United Kingdom,GBR,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,16.4183915577656,18.9561217170982,19.5575420360067,19.8628306509918,19.0126247789247,20.9138531793695,..,..,..,..
+United Kingdom,GBR,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.30707729379251,0.829364675879998,0.694743450494321,0.581197446782175,0.56547556912909,0.63414953204343,..,..,..,..
+United Kingdom,GBR,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,76.3785477623534,71.0662200152243,68.4682031950976,64.5925288277872,60.9687646327242,53.1808559978118,..,..,..,..
+United Kingdom,GBR,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,5.87088285184344,7.9284295108727,9.95585976238163,13.6651728823286,17.5052864211302,22.9703052717954,..,..,..,..
+United Kingdom,GBR,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,22220000000,28851000000,35840000000,48576000000,58694000000,77262000000,..,..,..,..
+United Kingdom,GBR,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,6.81281342640788,9.48905310077413,11.423960176561,14.988480137732,19.2628536831965,24.8400504227664,..,..,..,..
+United Kingdom,GBR,Time required to get electricity (days),IC.ELC.TIME,108,108,104,79,79,79,79,79,50,46
+United States,USA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,..
+United States,USA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,..
+United States,USA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9287719726563,99.9676055908203,99.9906158447266,99.9987411499023,100,100,100,100,100,..
+United States,USA,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,48.7971872340823,48.2274307821028,46.952347826087,46.6308196669913,45.9904061079438,..,..,..,..,..
+United States,USA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,45.7976057577193,43.3457640868712,38.4798556926388,39.9431412367387,39.6507326894421,34.2327337278988,..,..,..,..
+United States,USA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,6.02306238593337,7.43610219027027,6.52115580755647,6.3179099039587,6.05379847359067,5.84163825956796,..,..,..,..
+United States,USA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,23.3758416558289,24.1585897585537,29.6086711790814,27.0217680238967,26.8879614443192,31.9421612232398,..,..,..,..
+United States,USA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,19.2664460909667,18.9848461910931,18.7579199060429,19.1738311600765,19.2302385002996,19.3237776259423,..,..,..,..
+United States,USA,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.10431766942719,0.91350437464681,0.774312765226122,0.859739209174284,0.92325908117234,0.903806520197121,..,..,..,..
+United States,USA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,70.2777650829754,68.4178582200717,68.8628396369464,67.8246484698098,67.4619532149337,67.0787014713357,..,..,..,..
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.0972927613063,4.78961132612296,5.48624125590861,6.32000921832263,6.90002861670197,7.38695495139919,..,..,..,..
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,178411000000,207229000000,234311000000,270946000000,298023000000,317421000000,..,..,..,..
+United States,USA,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.1203551472397,12.2257135163932,12.0073970634651,12.6379191222813,12.9538270902926,13.2285932109672,..,..,..,..
+United States,USA,Time required to get electricity (days),IC.ELC.TIME,..,..,..,89.6,89.6,89.6,89.6,89.6,89.6,89.6
+South Africa,ZAF,Access to electricity (% of population),EG.ELC.ACCS.ZS,82.9,84.7,85.3,85.4,86,85.5,84.2,84.4,91.2298736572266,..
+South Africa,ZAF,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,67.9479513025107,73.4153538360434,76.9677349855104,76.7877506747487,77.6295638901199,75.3635314242526,70.7157223672873,70.3145301045502,89.5988191888486,..
+South Africa,ZAF,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,91.9796600341797,91.4,90.1366958618164,90.2880554199219,90.6449203491211,90.9994735717773,91.3525009155273,91.7047653198242,92.0568923950195,..
+South Africa,ZAF,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,70.3840291095049,69.1040425801546,68.0762343937796,66.4721723518851,67.480622813636,..,..,..,..,..
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,94.2606215516973,93.8041267297439,94.6315017280405,93.7438781636071,93.1018034160283,92.7112379223137,..,..,..,..
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.82369626881955,0.792446142940796,0.472710297238666,0.457755379316882,0.390826989910651,0.324638479994812,..,..,..,..
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0,0,0,0,0,0,..,..,..,..
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,4.71423895763848,5.20155946620643,4.68944306488881,5.5712660747575,5.52929999879746,..,..,..,..,..
+South Africa,ZAF,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.0767588292135532,0.0758929947298672,0.0761043964019097,0.0758317798350659,0.0757603088134493,0.074168341871474,..,..,..,..
+South Africa,ZAF,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.3373803809108,93.8800197244738,94.7076061244424,93.8197099434421,93.1775637248418,92.7854062641852,..,..,..,..
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.124684392631152,0.125974666379018,0.130240513430072,0.151268602483491,0.902309286450128,1.93040334608651,..,..,..,..
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,320000000,327000000,332000000,383000000,2251000000,4763000000,..,..,..,..
+South Africa,ZAF,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.948380661450703,0.918420809319814,0.602950810668738,0.609023981800373,1.29313627636078,2.25504182608132,..,..,..,..
+South Africa,ZAF,Time required to get electricity (days),IC.ELC.TIME,214,226,226,226,226,84,109,109,109,109
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,
+Last Updated: 09/16/2020,,,,,,,,,,,,,
